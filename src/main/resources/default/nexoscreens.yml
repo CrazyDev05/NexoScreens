@@ -1,0 +1,14 @@
+nexoscreens_fullscreen:
+  texture: nexoscreens/fullscreen.png
+  ascent: 2048
+  height: 2048
+
+nexoscreens_fullscreen_black:
+  texture: nexoscreens/fullscreen_black.png
+  ascent: 2048
+  height: 2048
+
+nexoscreens_fullscreen_transparent:
+  texture: nexoscreens/fullscreen_transparent.png
+  ascent: 2048
+  height: 2048

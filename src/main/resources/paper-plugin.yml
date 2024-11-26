@@ -1,0 +1,16 @@
+name: NexoScreens
+version: ${version}
+main: de.crazydev22.screens.NexoScreens
+api-version: '1.20'
+authors: [CrazyDev22]
+
+commands:
+    nexoscreens:
+        usage: /nexoscreens <screen>
+        description: Show a screen
+
+dependencies:
+  server:
+    Nexo:
+      load: AFTER
+      required: true

@@ -1,0 +1,11 @@
+defaults:
+  invulnerable: true
+  movement: false
+  commands:
+    start: []
+    end: []
+
+screens:
+  fullscreen: {}
+  fullscreen_black: {}
+  fullscreen_transparent: {}
